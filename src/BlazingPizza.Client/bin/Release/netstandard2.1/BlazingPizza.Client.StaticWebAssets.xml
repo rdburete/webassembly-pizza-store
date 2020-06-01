@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.Client\bin\Release\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/BlazingPizza.ComponentsLibrary" Path="D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.ComponentsLibrary\wwwroot\" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\itsix\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\3.2.0\build\..\staticwebassets\" />
+</StaticWebAssets>

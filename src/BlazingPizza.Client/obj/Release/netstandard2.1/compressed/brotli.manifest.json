@@ -1,0 +1,164 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\w5dAivflnzc77K3OM0q_kt2a1e3RxyJKzX017fnSPJc=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazingPizza.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingPizza.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\gT8Lv72NnfvvPAvlUhCBzLg7LCCdo8MDQgKfd62soho=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazingPizza.ComponentsLibrary.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingPizza.ComponentsLibrary.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\t-wLV0TyIjBQeseWLKGxbzTzVTpwfncVFbU379vywZ8=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazingPizza.Shared.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingPizza.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3DBqjC7hEDVv4mHJkVwcX9cZep3PJPDDoSZnAyUE0JQ=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\IT2EIhJiLoM4ThBcVAR3dsC677Wnj70nhBPiTUP7i5Y=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\dQCLMQMXMmRZN6MepJzV_wgKqnS9V0uZ7JZ2m1__xEY=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Lv4pGmdWJQa6MehS92EjNV_MUoIUYJ-wgwOJauVAj6Q=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\M5mar8h0D3EiV9x7NMJ5IDeJHeZfdTC5Es1eQDcWTGw=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\NS4e_hqeqgffjqIrruA6XUJIs8kp5r14lQI5mVOJSX4=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\lY--9x7mHH8CsFerG4lo5gw9UX2S8-aS53Hma0Eg4ws=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\dk4CNBlZc7jRj-b-t1BykEQB1aBdeLcWQ22Br8SgOd8=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\v2BhbMd-nfyd99rr11GGovvgF0ZeZrdtjIB5G8F_A9k=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\EeUXkOfjeb84tOxOfCRW8qqt6E5qdvNt9zDh2w9WXt4=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-XOzSOxJjg9jmUEYDMuB2T5BNKkfj2FyV1G14C2Cnj8=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-ZUKWZhAO0-cUDdPdx1f9WgkQ3wF7FHBoj4SmY1w0fo=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\GFqkJmxwbf7WMrZ_MCRzaOADzSsVQ9tcMrMt19fsEeo=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UZa5CS19ZrbM6Csnl8CUIQucvmKMc4TughggTxKhx-I=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\dJ9rgyiYw8cVrkMeTwtKFOnuCLkNcsFSJnQLmjOSrAs=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UDMKh78ze7owWcQy5i4lxeLiT_nyMhcB7mGj5mDCDdo=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\kI-1HgTArk3RPP3tr7aydtsHlXJOQAquRTJd_l8Fi_E=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5FJFl2r67gSZIL2lutsL50SwuosnhAng57-uIfDCw9s=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\rd1iHCRVAopC_ZdlfG6mVp10J2z1n73jkBvYh7QrC6k=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\gHvIhdch91VV1YShNmg7Owz_bt_kRdlCIrNjs7RL2SQ=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Kfjno_aGBO8A3_pQixEcqUO-dKWHm6u68becWaoAjgw=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\eIFQqK5UlyTrq4RCqnuuYBBPdNNKrCEW7JViWUV5lIM=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\g1tEYMM-F-9qlAox-PVk-UavgNcpQ_h4z901gYKMCp4=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\itsix\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\itsix\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\itsix\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash",
+      "Source": "C:\\Users\\itsix\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.0\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SQ92aqZG74YBWSoHFJwSdGtpfGmoIVSf5c5ENPIi2Ps=.hash",
+      "Source": "D:\\Radu's Files\\Blazor\\Github Pages\\webassembly-pizza-store\\src\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
+    }
+  ]
+}
