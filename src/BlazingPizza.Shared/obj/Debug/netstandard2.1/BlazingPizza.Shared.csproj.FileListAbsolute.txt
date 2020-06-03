@@ -1,15 +1,15 @@
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.deps.json
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.dll
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.pdb
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csprojAssemblyReference.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfoInputs.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfo.cs
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CopyComplete
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.dll
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.pdb
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.deps.json
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.dll
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.pdb
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csprojAssemblyReference.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CopyComplete
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.dll
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.pdb
 D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.deps.json
 D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.dll
 D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.pdb

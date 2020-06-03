@@ -1,26 +1,25 @@
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.deps.json
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.csprojAssemblyReference.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.AssemblyInfoInputs.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.AssemblyInfo.cs
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.csproj.CoreCompileInputs.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.RazorComponent.input.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\RazorDeclaration\Map\Map.razor.g.cs
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\RazorDeclaration\BlazingPizza.ComponentsLibrary.dll
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.TagHelpers.input.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.TagHelpers.output.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.RazorCoreGenerate.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\Razor\Map\Map.razor.g.cs
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.RazorTargetAssemblyInfo.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\staticwebassets\BlazingPizza.ComponentsLibrary.StaticWebAssets.Manifest.cache
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\staticwebassets\BlazingPizza.ComponentsLibrary.StaticWebAssets.xml
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
-D:\Radu's Files\Blazor\Github Pages\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.deps.json
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.csprojAssemblyReference.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.AssemblyInfoInputs.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.AssemblyInfo.cs
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.RazorComponent.input.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\RazorDeclaration\Map\Map.razor.g.cs
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\RazorDeclaration\BlazingPizza.ComponentsLibrary.dll
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.TagHelpers.input.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.TagHelpers.output.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.RazorCoreGenerate.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\Razor\Map\Map.razor.g.cs
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.RazorTargetAssemblyInfo.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\staticwebassets\BlazingPizza.ComponentsLibrary.StaticWebAssets.Manifest.cache
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\staticwebassets\BlazingPizza.ComponentsLibrary.StaticWebAssets.xml
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
+C:\Users\itsix\Downloads\blazor-workshop-master\blazor-workshop-master\save-points\07-javascript-interop\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
 D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.deps.json
 D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
 D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
-D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.csprojAssemblyReference.cache
 D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.AssemblyInfoInputs.cache
 D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.AssemblyInfo.cs
 D:\Radu's Files\Blazor\Github Pages\webassembly-pizza-store\src\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.csproj.CoreCompileInputs.cache
